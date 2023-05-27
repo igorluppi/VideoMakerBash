@@ -1,1 +1,4 @@
-in/example.mp4,02:02:17,03:03:17,out/example_out.mp4
+in/example.mp4,02:00:00,03:00:00,out/example_out1.mp4
+in/example.mp4,00:00:00,03:00:00,out/example_out2.mp4
+in/example.mp4,01:00:00,03:00:00,out/example_out3.mp4
+in/example.mp4,03:00:00,03:30:00,out/example_out4.mp4
