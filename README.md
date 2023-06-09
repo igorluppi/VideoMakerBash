@@ -5,7 +5,7 @@
 - Clone this repository
 - Install the following packages for debian/ubuntu
 ```bash
-    sudo apt install melt
+sudo apt update && sudo apt install melt ffmpeg
 ```
 
 ### Setup
@@ -15,5 +15,5 @@
 
 ### Execute
 ```bash
-    bash script.sh some-file.csv
+bash script.sh some-file.csv [optional: type]
 ```
